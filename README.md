@@ -278,7 +278,7 @@ Locked:
 
 ### Languages
 
-Python • Java • C • SQL • JavaScript • TypeScript
+Python • Java • C • SQL • JavaScript • TypeScript • HTML • CSS 
 
 ### Full Stack
 
@@ -355,7 +355,6 @@ Cyber Threat Detection Dashboard
 ````markdown
 # 🛰 Communication Channels Online
 
-```bash
 STATUS: CONNECTED
 SIGNAL STRENGTH: ██████████ 100%
 ````
