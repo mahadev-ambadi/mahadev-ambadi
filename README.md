@@ -35,11 +35,11 @@ Status:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Name: Mahadev Ambadi
+Name: Mahadev Ambadi SS
 
 Class: Builder
 
-Level: 21
+Level: 20
 
 Guild: Christ University
 
