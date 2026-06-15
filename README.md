@@ -1,7 +1,7 @@
 # Hi, I'm Mahadev Ambadi SS👋
 # 🌌 MAHADEV.EXE | Interactive Developer Command Center
 
-> Not a GitHub profile. A live operating system documenting the journey of turning ideas into products.
+> A live operating system documenting the journey of turning ideas into products.
 
 ---
 
