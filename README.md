@@ -1,4 +1,4 @@
-# Hi, I'm Mahadev Ambadi 👋
+# Hi, I'm Mahadev Ambadi SS👋
 
 🎓 B.Tech Computer Science Student at Christ University
 
