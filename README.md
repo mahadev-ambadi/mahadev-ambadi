@@ -175,10 +175,10 @@ Getting 1% better every day.
 ### Connection Established
 
 ```bash
-linkedin --connect Mahadev-Ambadi
+Linkedin --{https://www.linkedin.com/in/mahadev-ambadi-a437b7306?utm_source=share_via&utm_content=profile&utm_medium=member_android} 
 
-github --follow mahadev-ambadi
+github --{https://github.com/mahadev-ambadi}
 
-mail --send ssmahadevambadi@gmail.com
+mail --{ssmahadevambadi@gmail.com}
 ```
 
