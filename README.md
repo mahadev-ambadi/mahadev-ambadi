@@ -1,402 +1,394 @@
-# Hi, I'm Mahadev Ambadi SS👋
-# 🌌 MAHADEV.EXE | Interactive Developer Command Center
+<div align="center">
 
-> Not a GitHub profile. A live operating system documenting the journey of turning ideas into products.
+<!--- ═══════════════════════════════════════════════════════ --->
+<!---              THE MAHADEV CHRONICLE                      --->
+<!--- ═══════════════════════════════════════════════════════ --->
 
----
-
-# ⚡ SYSTEM INITIALIZATION
-
-```yaml
-User: Mahadev Ambadi SS
-Version: 21.0
-
-Role:
-  - Full Stack Developer
-  - AI Builder
-  - Data Explorer
-  - Cybersecurity Enthusiast
-  - ERP Systems Developer
-
-Education:
-  Institution: Christ University
-  Degree: B.Tech Computer Science & Engineering
-  GPA: 3.93/4.0
-
-Status:
-  Current: Building
-  Mood: Curious
-  Coffee_Level: Unknown
+```
+████████╗██╗  ██╗███████╗    ███╗   ███╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███████╗██╗   ██╗
+╚══██╔══╝██║  ██║██╔════╝    ████╗ ████║██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔════╝██║   ██║
+   ██║   ███████║█████╗      ██╔████╔██║███████║███████║███████║██║  ██║█████╗  ██║   ██║
+   ██║   ██╔══██║██╔══╝      ██║╚██╔╝██║██╔══██║██╔══██║██╔══██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+   ██║   ██║  ██║███████╗    ██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║██████╔╝███████╗ ╚████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝
 ```
 
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 📰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE MAHADEV CHRONICLE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📰
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*"Build. Learn. Leave every system better than you found it."*
+
+**Est. 2024 · Bangalore, India · Christ University · Vol. III, No. 21**
+
+</div>
+
 ---
 
-# 🎮 PLAYER PROFILE
+<div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+![Full Stack](https://img.shields.io/badge/FULL%20STACK-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![AI Builder](https://img.shields.io/badge/AI%20BUILDER-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![ERP Systems](https://img.shields.io/badge/ERP%20SYSTEMS-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![Data & Analytics](https://img.shields.io/badge/DATA%20%26%20ANALYTICS-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-000000?style=flat-square&labelColor=000000&color=000000)
 
-Name: Mahadev Ambadi
+</div>
 
-Class: Builder
+---
 
-Level: 21
+## ▌ FRONT PAGE &nbsp;&nbsp; · &nbsp;&nbsp; BREAKING
 
-Guild: Christ University
+<table>
+<tr>
+<td width="65%" valign="top">
 
-XP Earned:
+### 21-YEAR-OLD ENGINEER SHIPS FIVE LIVE SYSTEMS BEFORE GRADUATION
 
-✅ 4 Internships
+*By The Chronicle Editorial Team · Christ University, Bangalore*
 
-✅ 10+ Projects
+**I**n an era where most undergraduates are still debating which framework to learn, **Mahadev Ambadi SS** of Christ University has quietly built an ERP system for a robotics firm, an AI-powered interview prep platform, a machine learning threat detection engine, and an airport operations intelligence dashboard — all before his final year.
 
-✅ Multiple Domains Explored
+> *"I just kept turning ideas into products."*
 
-Current Boss Battle:
+Four internships and ten-plus deployments later, that philosophy has produced a portfolio that reads less like a student project list and more like a small technology company's sprint board. His flagship product, **HackerCompliment**, combines Next.js, Supabase, and generative AI to deliver a live interview preparation experience — complete with Razorpay billing integration.
 
-☠ Placement Season 2027
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> ### *"Built an ERP system before fully mastering TypeScript. Turns almost every idea into a dashboard."*
+> *— Mahadev, on his own approach*
 
-Progress:
+---
 
+When asked about the secret, Ambadi keeps it simple: pick a real problem, ship something, learn from the wreckage, repeat. The GenRobotics ERP platform alone — spanning procurement, inventory, vendor management, and workflow automation — would be a meaningful internship project. He built it as a student.
+
+</td>
+<td width="35%" valign="top">
+
+### PROJECT STATUS BOARD
+
+| Project | Status |
+|---------|--------|
+| 🟢 HackerCompliment | **LIVE** |
+| 🟢 GenRobotics ERP | **SHIPPED** |
+| 🟢 Cyber Threat ML | **SHIPPED** |
+| 🟢 Airport Dashboard | **LIVE** |
+| 🟡 University Chatbot | **IN PROGRESS** |
+| ⚪ AI Agents | **EXPLORING** |
+
+---
+
+### NOTABLE CREDENTIALS
+
+| | |
+|--|--|
+| GPA | **3.93 / 4.0** |
+| Internships | **4 completed** |
+| Projects | **10+ shipped** |
+| Honoured by | **Dr. Shashi Tharoor MP** |
+| Award | **Proficiency Award** |
+| Summit | **Cloud Security Volunteer** |
+
+---
+
+### PLACEMENT SEASON
+
+```
+2027
 ████████████████░░░░ 84%
+Currently open to offers
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 ACTIVE MISSIONS
+## ▌ TECHNOLOGY · SYSTEMS · INTELLIGENCE
 
-### 🤖 Mission Alpha: HackerCompliment
+<table>
+<tr>
+<td width="33%" valign="top">
 
-AI-powered interview preparation platform.
+### ENTERPRISE ENGINEERING
 
-Technologies:
+**ERP Built From Scratch For Robotics Giant**
 
-* Next.js
-* TypeScript
-* Supabase
-* Generative AI
-* Razorpay
+The GenRobotics ERP platform — spanning procurement, inventory, vendor management, and workflow automation — represents the most technically ambitious work in this portfolio. Built end-to-end as a student, the system is now in active operational use at a real company.
 
-Status: 🟢 Active
+*Next.js · Node.js · SQL · Workflow Automation*
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🏢 Mission Beta: GenRobotics ERP
+### MACHINE LEARNING
 
-Enterprise ERP platform designed for:
+**ML Model Detects Cyber Threats In Real Time**
 
-* Procurement
-* Inventory
-* Vendor Management
-* Workflow Automation
+Using TensorFlow and Keras, a classification model was trained to monitor live network telemetry and flag anomalous behaviour patterns. The dashboard gives security teams instant visual threat context with zero manual log-digging.
 
-Status: 🟢 Completed
+*TensorFlow · Keras · Scikit-learn · Python*
 
----
+</td>
+<td width="34%" valign="top">
 
-### 🔐 Mission Gamma: Cyber Threat Detection
+### BUSINESS INTELLIGENCE
 
-Machine learning powered threat monitoring system.
+**Airport Operations Brought Into One Dashboard**
 
-Status: 🟢 Completed
+The Airport Parking Operations Dashboard consolidates fragmented operational data into a single analytics interface — cutting report generation time and surfacing patterns invisible in raw logs. Currently serving live airport data.
 
----
+*Streamlit · Pandas · NumPy · Excel · SQL*
 
-### ✈️ Mission Delta: Airport Operations Dashboard
-
-Business intelligence and operational analytics platform.
-
-Status: 🟢 Active
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 Mission Epsilon: University Chatbot
+## ▌ AI INTELLIGENCE DESK
 
-Generative AI-powered knowledge assistant.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Status: 🟡 In Progress
+### HACKER COMPLIMENT — THE FLAGSHIP
 
----
+**AI-Powered Interview Preparation, Live in Production**
 
-# 🌌 MAHADEV MULTIVERSE
+HackerCompliment is not a demo. It is a deployed, billing-integrated, generative AI platform built to help engineers prepare for technical interviews. Users sign up, pay via Razorpay, and get AI-driven feedback on their responses in real time.
 
-## 🤖 AI Universe
+Stack: `Next.js` · `TypeScript` · `Supabase` · `Generative AI` · `Razorpay`
 
-Projects:
+**Status:** 🟢 Active · Accepting users
 
-* HackerCompliment
-* University Chatbot
-* Sentiment Analysis
+</td>
+<td width="50%" valign="top">
 
----
+### UNIVERSITY CHATBOT — IN DEVELOPMENT
 
-## 🏢 Enterprise Universe
+**Generative AI Knowledge Assistant For Campus**
 
-Projects:
+A context-aware chatbot trained on university-specific knowledge — covering admissions, curriculum, events, and administrative queries. Built to handle the volume of repetitive questions that overwhelm university helpdesks.
 
-* GenRobotics ERP
-* Fish Shop Platform
+Stack: `LLMs` · `RAG` · `NLP` · `Generative AI`
 
----
+**Status:** 🟡 In Progress · Launching soon
 
-## 🔐 Security Universe
-
-Projects:
-
-* Cyber Threat Detection Dashboard
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Analytics Universe
+## ▌ VITALS · STACK · CONNECTIONS
 
-Projects:
+<table>
+<tr>
+<td width="40%" valign="top">
 
-* Airport Parking Dashboard
-* Step Tracker Analytics
+### THE ARSENAL
 
----
+**Languages**
+```
+Python  ████████████████████  Expert
+TypeScript ████████████████░░  Advanced
+Java    ██████████████░░░░░░  Proficient
+SQL     ████████████████████  Expert
+C       ████████████░░░░░░░░  Proficient
+```
 
-## ⚔ Algorithm Universe
+**Full Stack**
 
-Projects:
+`Next.js` `React` `Angular` `Node.js` `Express.js` `Django` `Flask`
 
-* MST Builder Game
-* DSA Practice Systems
+**AI / ML**
 
----
+`TensorFlow` `Keras` `Scikit-learn` `NLP` `LLMs` `Generative AI`
 
-# 📡 LIVE DEVELOPER TELEMETRY
+**Data**
 
-## GitHub Stats
+`Pandas` `NumPy` `Streamlit` `Excel` `Dashboarding`
 
-<!-- github stats widget -->
+**Cloud & Infra**
 
-## Contribution Streak
+`AWS` `Docker` `Git` `GitHub` `Supabase`
 
-<!-- streak widget -->
+</td>
+<td width="20%" valign="top" align="center">
 
-## Languages Used
+### BY THE NUMBERS
 
-<!-- language widget -->
-
-## Contribution Snake
-
-<!-- snake animation -->
-
----
-
-# 🧪 EXPERIMENT LAB
-
-Currently Exploring:
-
-* [ ] AI Agents
-* [ ] Multi-Agent Systems
-* [ ] Retrieval-Augmented Generation
-* [ ] Cloud Architecture
-* [ ] System Design
-* [ ] Advanced React Patterns
-
----
-
-# 🎲 RANDOM MAHADEV GENERATOR
-
-Every page refresh displays:
-
-### Today's Fact
-
-"Built an ERP system before mastering TypeScript."
-
-or
-
-"Turns almost every idea into a dashboard."
-
-or
-
-"Probably creating another side project right now."
-
----
-
-# 🏆 ACHIEVEMENT VAULT
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🏆 GPA 3.93 / 4.0
-
-Rarity: Epic
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🏆 Proficiency Award
-
-Rarity: Epic
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🏆 Honoured by Dr. Shashi Tharoor MP
-
-Rarity: Legendary
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🏆 Cloud Security Summit Volunteer
-
-Rarity: Rare
-
-━━━━━━━━━━━━━━━━━━━━━━
-
----
-
-# 🕹 SIDE QUESTS
-
-Completed:
-
-✅ ERP System
-
-✅ Cybersecurity Dashboard
-
-✅ Sentiment Analysis
-
-✅ Operations Analytics Dashboard
-
-In Progress:
-
-◉ University Chatbot
-
-◉ AI Agents
-
-Locked:
-
-🔒 SaaS Founder
-
-🔒 Open Source Maintainer
-
-🔒 Product Engineer
-
----
-
-# ⚙ TECH ARSENAL
-
-### Languages
-
-Python • Java • C • SQL • JavaScript • TypeScript
-
-### Full Stack
-
-Next.js • React • Angular • Node.js • Express.js • Django • Flask
-
-### AI / ML
-
-TensorFlow • Keras • Scikit-learn • NLP • LLMs • Generative AI
-
-### Data
-
-Excel • Pandas • NumPy • Streamlit • Dashboarding
-
-### Cloud
-
-AWS • Docker • Git • GitHub
-
----
-
-# 🤖 MAHADEVGPT
-
-### FAQ
-
-<details>
-<summary>What project should I look at first?</summary>
-
-HackerCompliment
-
-</details>
-
-<details>
-<summary>What is the most technically challenging project?</summary>
-
-GenRobotics ERP
-
-</details>
-
-<details>
-<summary>What project demonstrates business understanding?</summary>
-
-Airport Parking Operations Dashboard
-
-</details>
-
-<details>
-<summary>What project demonstrates problem solving?</summary>
-
-Cyber Threat Detection Dashboard
-
-</details>
-
----
-
-# 📈 CAREER EVOLUTION TIMELINE
-
-2024 → First Internship
-
-2025 → Full Stack Development
-
-2025 → Machine Learning Projects
-
-2026 → ERP Systems
-
-2026 → AI Products
-
-2026 → Operations Analytics
-
-2027 → Loading...
-
----
-
-# 📬 ESTABLISH CONNECTION
-
-````markdown
-# 🛰 Communication Channels Online
-
-```bash
-STATUS: CONNECTED
-SIGNAL STRENGTH: ██████████ 100%
-````
-
-### 🔗 Professional Network
-
-▶ LinkedIn
-https://www.linkedin.com/in/mahadev-ambadi-a437b7306
-
-### 💻 Source Code Hub
-
-▶ GitHub
-https://github.com/mahadev-ambadi
-
-### 📧 Direct Communication
-
-▶ Email
-[ssmahadevambadi@gmail.com](mailto:ssmahadevambadi@gmail.com)
-
----
-
-```yaml
-Connection_Status:
-  LinkedIn: Online
-  GitHub: Active
-  Email: Available
-
-Response_Time:
-  Usually within 24 hours
+```
+ 3.93
+━━━━━━
+GPA / 4.0
 ```
 
 ```
+  10+
+━━━━━━
+Projects
 ```
 
+```
+   4
+━━━━━━
+Internships
+```
 
-## Final Objective
+```
+   5
+━━━━━━
+Domains
+```
 
-Build products.
+```
+  21
+━━━━━━
+Years old
+```
 
-Learn continuously.
+</td>
+<td width="40%" valign="top">
 
-Explore every domain.
+### CAREER EVOLUTION
 
-Leave every system better than I found it.
+```
+2024  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      First internship
+      Foundations laid
+
+2025  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      Full stack development
+      Machine learning projects
+
+2026  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+      ERP systems
+      AI products shipped
+      Operations analytics
+
+2027  ○ ·  ·  ·  ·  ·  ·  ·  ·  ·
+      Loading...
+```
+
+---
+
+### CURRENTLY EXPLORING
+
+- `AI Agents` & Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Cloud Architecture & System Design
+- Advanced React Patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+## ▌ GITHUB TELEMETRY
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadev-ambadi&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=444444&icon_color=000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-ambadi&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=444444)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadev-ambadi&theme=graywhite&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000)
+
+</div>
+
+---
+
+## ▌ ACHIEVEMENT VAULT
+
+<div align="center">
+
+| 🏆 | Achievement | Rarity |
+|:--:|-------------|--------|
+| ★★★ | **GPA 3.93 / 4.0** | `EPIC` |
+| ★★★ | **Proficiency Award** | `EPIC` |
+| ★★★★ | **Honoured by Dr. Shashi Tharoor MP** | `LEGENDARY` |
+| ★★ | **Cloud Security Summit Volunteer** | `RARE` |
+| ★★ | **4 Internships Completed** | `RARE` |
+
+</div>
+
+---
+
+## ▌ THE MAHADEV MULTIVERSE
+
+<div align="center">
+
+```
+┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
+│                 │  │                 │  │                 │  │                 │  │                 │
+│   🤖 AI / LLM  │  │ 🏢  ENTERPRISE  │  │  🔐  SECURITY  │  │  📊  ANALYTICS  │  │  ⚔  ALGORITHMS  │
+│                 │  │                 │  │                 │  │                 │  │                 │
+│ HackerCompliment│  │ GenRobotics ERP │  │  Cyber Threat   │  │ Airport Parking │  │   MST Builder   │
+│ Univ. Chatbot   │  │ Fish Shop Plat. │  │   Detection     │  │   Dashboard     │  │    DSA Systems  │
+│ Sentiment Anal. │  │                 │  │                 │  │ Step Tracker    │  │                 │
+│                 │  │                 │  │                 │  │                 │  │                 │
+└─────────────────┘  └─────────────────┘  └─────────────────┘  └─────────────────┘  └─────────────────┘
+```
+
+</div>
+
+---
+
+## ▌ SIDE QUESTS
+
+<div align="center">
+
+| Status | Quest |
+|:------:|-------|
+| ✅ | ERP System — *delivered to production* |
+| ✅ | Cybersecurity Dashboard — *ML-powered* |
+| ✅ | Sentiment Analysis Engine |
+| ✅ | Operations Analytics Dashboard |
+| ◉ | University Chatbot — *in progress* |
+| ◉ | AI Agents — *exploring* |
+| 🔒 | SaaS Founder |
+| 🔒 | Open Source Maintainer |
+| 🔒 | Product Engineer |
+
+</div>
+
+---
+
+## ▌ ESTABLISH CONNECTION
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  STATUS: CONNECTED   ·   SIGNAL: ██████████ 100%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahadev%20Ambadi-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahadev-ambadi-a437b7306)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-mahadev--ambadi-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadev-ambadi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-ssmahadevambadi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssmahadevambadi@gmail.com)
+
+*Response time: usually within 24 hours*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                           FINAL OBJECTIVE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+          Build products.  ·  Learn continuously.  ·  Explore every domain.
+              Leave every system better than I found it.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              © The Mahadev Chronicle · Est. 2024 · Bangalore, India
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
