@@ -1,394 +1,68 @@
 <div align="center">
 
-<!--- ═══════════════════════════════════════════════════════ --->
-<!---              THE MAHADEV CHRONICLE                      --->
-<!--- ═══════════════════════════════════════════════════════ --->
+<sub>MAHADEV AMBADI SS &nbsp;·&nbsp; BANGALORE, INDIA</sub>
 
-```
-████████╗██╗  ██╗███████╗    ███╗   ███╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███████╗██╗   ██╗
-╚══██╔══╝██║  ██║██╔════╝    ████╗ ████║██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔════╝██║   ██║
-   ██║   ███████║█████╗      ██╔████╔██║███████║███████║███████║██║  ██║█████╗  ██║   ██║
-   ██║   ██╔══██║██╔══╝      ██║╚██╔╝██║██╔══██║██╔══██║██╔══██║██║  ██║██╔══╝  ╚██╗ ██╔╝
-   ██║   ██║  ██║███████╗    ██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║██████╔╝███████╗ ╚████╔╝
-   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝  ╚═══╝
-```
+# I build things that work in production.
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 📰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE MAHADEV CHRONICLE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📰
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<sub>Full Stack &nbsp;·&nbsp; AI &nbsp;·&nbsp; ERP &nbsp;·&nbsp; Analytics &nbsp;·&nbsp; Security &nbsp;—&nbsp; Christ University, B.Tech CSE &nbsp;·&nbsp; GPA 3.93/4.0</sub>
 
-*"Build. Learn. Leave every system better than you found it."*
+<br>
 
-**Est. 2024 · Bangalore, India · Christ University · Vol. III, No. 21**
+![Projects](https://img.shields.io/badge/Projects-10%2B-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![Internships](https://img.shields.io/badge/Internships-4-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![GPA](https://img.shields.io/badge/GPA-3.93%20%2F%204.0-0d1117?style=flat-square&labelColor=0d1117&color=238636)
+![Domains](https://img.shields.io/badge/Domains-5-0d1117?style=flat-square&labelColor=0d1117&color=238636)
 
 </div>
 
 ---
 
-<div align="center">
+### Selected work
 
-![Full Stack](https://img.shields.io/badge/FULL%20STACK-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![AI Builder](https://img.shields.io/badge/AI%20BUILDER-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![ERP Systems](https://img.shields.io/badge/ERP%20SYSTEMS-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![Data & Analytics](https://img.shields.io/badge/DATA%20%26%20ANALYTICS-000000?style=flat-square&labelColor=000000&color=000000) &nbsp; ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-000000?style=flat-square&labelColor=000000&color=000000)
-
-</div>
-
----
-
-## ▌ FRONT PAGE &nbsp;&nbsp; · &nbsp;&nbsp; BREAKING
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### 21-YEAR-OLD ENGINEER SHIPS FIVE LIVE SYSTEMS BEFORE GRADUATION
-
-*By The Chronicle Editorial Team · Christ University, Bangalore*
-
-**I**n an era where most undergraduates are still debating which framework to learn, **Mahadev Ambadi SS** of Christ University has quietly built an ERP system for a robotics firm, an AI-powered interview prep platform, a machine learning threat detection engine, and an airport operations intelligence dashboard — all before his final year.
-
-> *"I just kept turning ideas into products."*
-
-Four internships and ten-plus deployments later, that philosophy has produced a portfolio that reads less like a student project list and more like a small technology company's sprint board. His flagship product, **HackerCompliment**, combines Next.js, Supabase, and generative AI to deliver a live interview preparation experience — complete with Razorpay billing integration.
+| | Project | What it does | Stack |
+|:-:|---------|-------------|-------|
+| 🟢 | **HackerCompliment** | AI interview prep platform · live & billing | `Next.js` `Supabase` `GenAI` `Razorpay` |
+| 🟢 | **GenRobotics ERP** | End-to-end enterprise ERP for a robotics firm | `Node.js` `SQL` `Workflow Automation` |
+| 🟢 | **Cyber Threat ML** | Real-time threat detection via ML classification | `TensorFlow` `Keras` `Python` |
+| 🟢 | **Airport Dashboard** | Live ops analytics for airport parking operations | `Streamlit` `Pandas` `SQL` |
+| 🟡 | **University Chatbot** | GenAI knowledge assistant · in progress | `LLMs` `RAG` `NLP` |
 
 ---
 
-> ### *"Built an ERP system before fully mastering TypeScript. Turns almost every idea into a dashboard."*
-> *— Mahadev, on his own approach*
-
----
-
-When asked about the secret, Ambadi keeps it simple: pick a real problem, ship something, learn from the wreckage, repeat. The GenRobotics ERP platform alone — spanning procurement, inventory, vendor management, and workflow automation — would be a meaningful internship project. He built it as a student.
-
-</td>
-<td width="35%" valign="top">
-
-### PROJECT STATUS BOARD
-
-| Project | Status |
-|---------|--------|
-| 🟢 HackerCompliment | **LIVE** |
-| 🟢 GenRobotics ERP | **SHIPPED** |
-| 🟢 Cyber Threat ML | **SHIPPED** |
-| 🟢 Airport Dashboard | **LIVE** |
-| 🟡 University Chatbot | **IN PROGRESS** |
-| ⚪ AI Agents | **EXPLORING** |
-
----
-
-### NOTABLE CREDENTIALS
-
-| | |
-|--|--|
-| GPA | **3.93 / 4.0** |
-| Internships | **4 completed** |
-| Projects | **10+ shipped** |
-| Honoured by | **Dr. Shashi Tharoor MP** |
-| Award | **Proficiency Award** |
-| Summit | **Cloud Security Volunteer** |
-
----
-
-### PLACEMENT SEASON
+### Stack
 
 ```
-2027
-████████████████░░░░ 84%
-Currently open to offers
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## ▌ TECHNOLOGY · SYSTEMS · INTELLIGENCE
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ENTERPRISE ENGINEERING
-
-**ERP Built From Scratch For Robotics Giant**
-
-The GenRobotics ERP platform — spanning procurement, inventory, vendor management, and workflow automation — represents the most technically ambitious work in this portfolio. Built end-to-end as a student, the system is now in active operational use at a real company.
-
-*Next.js · Node.js · SQL · Workflow Automation*
-
-</td>
-<td width="33%" valign="top">
-
-### MACHINE LEARNING
-
-**ML Model Detects Cyber Threats In Real Time**
-
-Using TensorFlow and Keras, a classification model was trained to monitor live network telemetry and flag anomalous behaviour patterns. The dashboard gives security teams instant visual threat context with zero manual log-digging.
-
-*TensorFlow · Keras · Scikit-learn · Python*
-
-</td>
-<td width="34%" valign="top">
-
-### BUSINESS INTELLIGENCE
-
-**Airport Operations Brought Into One Dashboard**
-
-The Airport Parking Operations Dashboard consolidates fragmented operational data into a single analytics interface — cutting report generation time and surfacing patterns invisible in raw logs. Currently serving live airport data.
-
-*Streamlit · Pandas · NumPy · Excel · SQL*
-
-</td>
-</tr>
-</table>
-
----
-
-## ▌ AI INTELLIGENCE DESK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### HACKER COMPLIMENT — THE FLAGSHIP
-
-**AI-Powered Interview Preparation, Live in Production**
-
-HackerCompliment is not a demo. It is a deployed, billing-integrated, generative AI platform built to help engineers prepare for technical interviews. Users sign up, pay via Razorpay, and get AI-driven feedback on their responses in real time.
-
-Stack: `Next.js` · `TypeScript` · `Supabase` · `Generative AI` · `Razorpay`
-
-**Status:** 🟢 Active · Accepting users
-
-</td>
-<td width="50%" valign="top">
-
-### UNIVERSITY CHATBOT — IN DEVELOPMENT
-
-**Generative AI Knowledge Assistant For Campus**
-
-A context-aware chatbot trained on university-specific knowledge — covering admissions, curriculum, events, and administrative queries. Built to handle the volume of repetitive questions that overwhelm university helpdesks.
-
-Stack: `LLMs` · `RAG` · `NLP` · `Generative AI`
-
-**Status:** 🟡 In Progress · Launching soon
-
-</td>
-</tr>
-</table>
-
----
-
-## ▌ VITALS · STACK · CONNECTIONS
-
-<table>
-<tr>
-<td width="40%" valign="top">
-
-### THE ARSENAL
-
-**Languages**
-```
-Python  ████████████████████  Expert
-TypeScript ████████████████░░  Advanced
-Java    ██████████████░░░░░░  Proficient
-SQL     ████████████████████  Expert
-C       ████████████░░░░░░░░  Proficient
-```
-
-**Full Stack**
-
-`Next.js` `React` `Angular` `Node.js` `Express.js` `Django` `Flask`
-
-**AI / ML**
-
-`TensorFlow` `Keras` `Scikit-learn` `NLP` `LLMs` `Generative AI`
-
-**Data**
-
-`Pandas` `NumPy` `Streamlit` `Excel` `Dashboarding`
-
-**Cloud & Infra**
-
-`AWS` `Docker` `Git` `GitHub` `Supabase`
-
-</td>
-<td width="20%" valign="top" align="center">
-
-### BY THE NUMBERS
-
-```
- 3.93
-━━━━━━
-GPA / 4.0
-```
-
-```
-  10+
-━━━━━━
-Projects
-```
-
-```
-   4
-━━━━━━
-Internships
-```
-
-```
-   5
-━━━━━━
-Domains
-```
-
-```
-  21
-━━━━━━
-Years old
-```
-
-</td>
-<td width="40%" valign="top">
-
-### CAREER EVOLUTION
-
-```
-2024  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      First internship
-      Foundations laid
-
-2025  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      Full stack development
-      Machine learning projects
-
-2026  ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-      ERP systems
-      AI products shipped
-      Operations analytics
-
-2027  ○ ·  ·  ·  ·  ·  ·  ·  ·  ·
-      Loading...
+Languages    Python · TypeScript · Java · SQL · C · JavaScript
+Full Stack   Next.js · React · Angular · Node.js · Express · Django · Flask
+AI / ML      TensorFlow · Keras · Scikit-learn · LLMs · Generative AI · NLP
+Data         Pandas · NumPy · Streamlit · Excel · Dashboarding
+Cloud        AWS · Docker · Supabase · Git
 ```
 
 ---
 
-### CURRENTLY EXPLORING
-
-- `AI Agents` & Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Cloud Architecture & System Design
-- Advanced React Patterns
-
-</td>
-</tr>
-</table>
-
----
-
-## ▌ GITHUB TELEMETRY
+### GitHub stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadev-ambadi&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=444444&icon_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-ambadi&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=444444)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadev-ambadi&theme=graywhite&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000)
-
-</div>
-
----
-
-## ▌ ACHIEVEMENT VAULT
-
-<div align="center">
-
-| 🏆 | Achievement | Rarity |
-|:--:|-------------|--------|
-| ★★★ | **GPA 3.93 / 4.0** | `EPIC` |
-| ★★★ | **Proficiency Award** | `EPIC` |
-| ★★★★ | **Honoured by Dr. Shashi Tharoor MP** | `LEGENDARY` |
-| ★★ | **Cloud Security Summit Volunteer** | `RARE` |
-| ★★ | **4 Internships Completed** | `RARE` |
-
-</div>
-
----
-
-## ▌ THE MAHADEV MULTIVERSE
-
-<div align="center">
-
-```
-┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
-│                 │  │                 │  │                 │  │                 │  │                 │
-│   🤖 AI / LLM  │  │ 🏢  ENTERPRISE  │  │  🔐  SECURITY  │  │  📊  ANALYTICS  │  │  ⚔  ALGORITHMS  │
-│                 │  │                 │  │                 │  │                 │  │                 │
-│ HackerCompliment│  │ GenRobotics ERP │  │  Cyber Threat   │  │ Airport Parking │  │   MST Builder   │
-│ Univ. Chatbot   │  │ Fish Shop Plat. │  │   Detection     │  │   Dashboard     │  │    DSA Systems  │
-│ Sentiment Anal. │  │                 │  │                 │  │ Step Tracker    │  │                 │
-│                 │  │                 │  │                 │  │                 │  │                 │
-└─────────────────┘  └─────────────────┘  └─────────────────┘  └─────────────────┘  └─────────────────┘
-```
-
-</div>
-
----
-
-## ▌ SIDE QUESTS
-
-<div align="center">
-
-| Status | Quest |
-|:------:|-------|
-| ✅ | ERP System — *delivered to production* |
-| ✅ | Cybersecurity Dashboard — *ML-powered* |
-| ✅ | Sentiment Analysis Engine |
-| ✅ | Operations Analytics Dashboard |
-| ◉ | University Chatbot — *in progress* |
-| ◉ | AI Agents — *exploring* |
-| 🔒 | SaaS Founder |
-| 🔒 | Open Source Maintainer |
-| 🔒 | Product Engineer |
-
-</div>
-
----
-
-## ▌ ESTABLISH CONNECTION
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  STATUS: CONNECTED   ·   SIGNAL: ██████████ 100%
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahadev%20Ambadi-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahadev-ambadi-a437b7306)
+![Stats](https://github-readme-stats.vercel.app/api?username=mahadev-ambadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=238636&hide_rank=true)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-mahadev--ambadi-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahadev-ambadi)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-ssmahadevambadi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssmahadevambadi@gmail.com)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-ambadi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e)
 
-*Response time: usually within 24 hours*
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadev-ambadi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=238636&fire=238636&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
 ---
 
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e6edf3)](https://www.linkedin.com/in/mahadev-ambadi-a437b7306)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/mahadev-ambadi)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e6edf3)](mailto:ssmahadevambadi@gmail.com)
+
+---
+
 <div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                           FINAL OBJECTIVE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-          Build products.  ·  Learn continuously.  ·  Explore every domain.
-              Leave every system better than I found it.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-              © The Mahadev Chronicle · Est. 2024 · Bangalore, India
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
+<sub>Build · Learn · Leave every system better than you found it.</sub>
 </div>
