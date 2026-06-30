@@ -296,9 +296,9 @@ Years old
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahadev-ambadi&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&text_color=444444&icon_color=000000)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahadev-ambadi&show_icons=true&theme=graywhite&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev-ambadi&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=444444)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahadev-ambadi&layout=compact&theme=graywhite&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahadev-ambadi&theme=graywhite&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000)
 
